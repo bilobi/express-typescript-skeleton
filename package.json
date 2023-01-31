@@ -98,7 +98,7 @@
     "@types/uuid": "^9.0.0",
     "@typescript-eslint/eslint-plugin": "^5.48.1",
     "@typescript-eslint/parser": "^5.48.1",
-    "commitizen": "^4.2.6",
+    "commitizen": "^4.3.0",
     "copyfiles": "^2.4.1",
     "cross-env": "^7.0.3",
     "cspell": "^6.18.1",
